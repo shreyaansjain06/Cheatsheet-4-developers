@@ -226,7 +226,7 @@ git clone
 ```
 <img src="[simba](https://user-images.githubusercontent.com/73516108/136655713-870f74e3-49df-417b-850b-8a8f35dde235.jpeg)" alt="Lion King" width="500" height="600">
 ```
-<img src="[simba](https://user-images.githubusercontent.com/73516108/136655713-870f74e3-49df-417b-850b-8a8f35dde235.jpeg)" alt="Lion King" width="500" height="600">
+<img src="https://user-images.githubusercontent.com/73516108/136655713-870f74e3-49df-417b-850b-8a8f35dde235.jpeg" alt="Lion King" width="500" height="500">
 
 # Tables
 ```
